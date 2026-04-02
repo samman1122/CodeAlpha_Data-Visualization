@@ -1,4 +1,4 @@
-# CodeAlpha_Data-Visualization
+# Data-Visualization
 Overview
 
 This project focuses on analyzing and visualizing data using Python. It leverages powerful libraries to clean, process, and present data in a clear and meaningful way. The goal is to transform raw data into insights through well-structured visual representations.
